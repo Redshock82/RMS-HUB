@@ -10,9 +10,9 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
+  apiKey: "AIzaSyCp2eo4eHTfgxO2sjU1RNTlxdpkrNc-3ak",
+  authDomain: "rms-hub-fbb4d.firebaseapp.com",
+  projectId: "https://rms-hub-fbb4d-default-rtdb.firebaseio.com",
 };
 
 const app = initializeApp(firebaseConfig);
